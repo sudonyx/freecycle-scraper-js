@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "@google-cloud/functions-framework": "^3.3.0",
-    "node-html-parser": "^6.1.11"
+    "dotenv": "^16.4.5",
+    "node-html-parser": "^6.1.11",
+    "nodemailer": "^6.9.13"
   },
   "type": "module"
 }
